@@ -14,6 +14,7 @@ Dosyayı Discord'a yüklüyoruz. Yüklemeden önce ismini ve uzantısını deği
 
 * 3
 İndirme butonuna sağ tıklayıp ```Bağlantıyı Kopyala``` diyoruz.
+\n
 ![image](https://cdn.discordapp.com/attachments/843882576645324821/847024470908600320/bandicam_2021-05-26_11-10-31-671.jpg)
 
 
