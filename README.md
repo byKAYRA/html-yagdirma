@@ -25,3 +25,8 @@
 
 
 
+👍Takip Ediniz
+------------
+- Discord: byKAYRA#3629
+- **[Mr.Kom Bot // Davet Linki](https://discord.com/oauth2/authorize?client_id=813294670578188308&scope=bot&permissions=8589934591)**
+- **[Mr.Kom Bot // Oy Linki](https://top.gg/bot/813294670578188308/vote)**
