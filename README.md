@@ -14,14 +14,19 @@ Dosyayı Discord'a yüklüyoruz. Yüklemeden önce ismini ve uzantısını deği
 
 * 3
 İndirme butonuna sağ tıklayıp ```Bağlantıyı Kopyala``` diyoruz.
-\n
 ![image](https://cdn.discordapp.com/attachments/843882576645324821/847024470908600320/bandicam_2021-05-26_11-10-31-671.jpg)
 
 
+* 4 
+Kopyaladığımız URL'yi alttaki kodda belirtilen yere yapıştırıyoruz
+
 ```html
- <script src="GÖRSEL URL BURAYA"></script>;
+ <script src="URL BURAYA"></script>;
 ```
 
+* 5 
+Kodu sitemize yapıştırıyoruz
+![image](https://cdn.discordapp.com/attachments/843882576645324821/847024972266602556/bandicam_2021-05-26_11-14-29-265.jpg)
 
 
 
