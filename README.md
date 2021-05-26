@@ -1,6 +1,6 @@
 🎈 HTML Sitenize Görsel Yağdırma 🎈
 =================
-* 1
+* ## 1
 Yukarıdaki ```dosya.txt``` dosyasını indiriyoruz. Belirttiğim yerleri istediğiniz bir görselin linkini yapıştırıyorsunuz.
 
 ![Image](https://cdn.discordapp.com/attachments/843882576645324821/847024474427490304/bandicam_2021-05-26_11-07-06-726.jpg)
