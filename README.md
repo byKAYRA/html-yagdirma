@@ -7,20 +7,20 @@
 
 
 
-*## 2 Dosyayı Discord'a yüklüyoruz. Yüklemeden önce ismini ve uzantısını değiştiriyoruz.
+* ## 2 Dosyayı Discord'a yüklüyoruz. Yüklemeden önce ismini ve uzantısını değiştiriyoruz.
 ![image](https://cdn.discordapp.com/attachments/843882576645324821/847024441383976960/bandicam_2021-05-26_11-07-48-665.jpg)
 
-*## 3 İndirme butonuna sağ tıklayıp ```Bağlantıyı Kopyala``` diyoruz.
+* ## 3 İndirme butonuna sağ tıklayıp ```Bağlantıyı Kopyala``` diyoruz.
 ![image](https://cdn.discordapp.com/attachments/843882576645324821/847024470908600320/bandicam_2021-05-26_11-10-31-671.jpg)
 
 
-*## 4 Kopyaladığımız URL'yi alttaki kodda belirtilen yere yapıştırıyoruz
+* ## 4 Kopyaladığımız URL'yi alttaki kodda belirtilen yere yapıştırıyoruz
 
 ```html
  <script src="URL BURAYA"></script>;
 ```
 
-*## 5 Kodu sitemize yapıştırıyoruz
+* ## 5 Kodu sitemize yapıştırıyoruz
 ![image](https://cdn.discordapp.com/attachments/843882576645324821/847024972266602556/bandicam_2021-05-26_11-14-29-265.jpg)
 
 
