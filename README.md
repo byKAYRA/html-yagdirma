@@ -25,6 +25,16 @@
 
 
 
+
+
+
+## İşte Siteniz Hazır
+
+![image](https://cdn.discordapp.com/attachments/843882576645324821/847015626945855498/bandicam_2021-05-26_10-34-13-603.gif)
+
+
+
+
 👍Takip Ediniz
 ------------
 - Discord: byKAYRA#3629
